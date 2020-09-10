@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
      
-      <h1>good morning to all</h1>
+      <h1>good evening to all</h1>
     </div>
   );
 }
